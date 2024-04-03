@@ -9,7 +9,10 @@ function App() {
         <nav>
           <ul>
             <li>
-              <Link to="profile">Profile page</Link>
+              <Link to="profile/popeye">Popeyes</Link>
+            </li>
+            <li>
+              <Link to="profile/spinach">Spinach</Link>
             </li>
           </ul>
         </nav>
